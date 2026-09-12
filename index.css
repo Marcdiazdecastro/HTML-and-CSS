@@ -1,0 +1,32 @@
+.image{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+
+}
+h1
+{
+     justify-self: center;
+}
+h2 {
+     justify-self: center;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.col{
+background-color: blanchedalmond;
+align-items: center;
+}
+table {
+  width: 100%;
+}
+.jim
+{
+    line-height: 0%;
+}
+button{
+    background-color: rgb(139, 209, 150);
+color: black;
+}
